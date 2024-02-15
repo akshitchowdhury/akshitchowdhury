@@ -8,6 +8,7 @@
  ---
 
                                         ### :man_technologist:  
+                                        
 <h1 align='center'>
 👋 Hi, I’m Pratikshit Chowdhury/DevAshura
 </h1>
@@ -36,7 +37,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ---
+
                         ### :hammer_and_wrench: Languages and Tools :
+
 <div align= "center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>&nbsp;
@@ -53,4 +56,6 @@ You can click the Preview link to take a look at your changes.
 
 ### :fire: My Stats :
 
+<div align='center'>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshitchowdhury&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
