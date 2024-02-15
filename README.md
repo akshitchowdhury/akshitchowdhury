@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pratikshit Chowdhury
+- 👋 Hi, I’m Pratikshit Chowdhury/DevAshura
 - 👀 I’m interested in Full Stack Web Development and managing resources leveraging AWS.
 - 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on projects on Web Dev
