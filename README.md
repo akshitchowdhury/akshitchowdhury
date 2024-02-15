@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=akshitchowdhury&style=flat-square&color=blue" alt=""/>
   </div>
 ----
-:man_technologist:  
-<h1>
+###:man_technologist:  
+<h1 align='center'>
 👋 Hi, I’m Pratikshit Chowdhury/DevAshura
 </h1>
   - 👀 I’m interested in Full Stack Web Development and managing resources leveraging AWS.
