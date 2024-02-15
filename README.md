@@ -5,9 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=akshitchowdhury&style=flat-square&color=blue" alt=""/>
   </div>
 ----
-:man_technologist: - 
+:man_technologist:  
+<h1>
 👋 Hi, I’m Pratikshit Chowdhury/DevAshura
-- 👀 I’m interested in Full Stack Web Development and managing resources leveraging AWS.
+</h1>
+  - 👀 I’m interested in Full Stack Web Development and managing resources leveraging AWS.
 - 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on projects on Web Dev
 - Check out my Portfolio page via : https://devashura-portfolio.netlify.app/
