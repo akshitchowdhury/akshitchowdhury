@@ -7,7 +7,7 @@
   
  ---
 
-                                        ###:man_technologist:  
+                                        ### :man_technologist:  
 <h1 align='center'>
 👋 Hi, I’m Pratikshit Chowdhury/DevAshura
 </h1>
@@ -21,9 +21,11 @@
   <li>
  Check out my Portfolio page via : https://devashura-portfolio.netlify.app/</li>
   <li> Skills :
-         1.Front End ----> Javascript,Node JS, HTML, CSS, React <----
-         2.Back End -----> Java, Spring Boot, MySQL, Hibernate, J2EE <----
-        3.AWS ----------> EC2, S3, VPC, Elastic Beanstalk, Cloudwatch, Netwroking, Security Groups(VPC), Terraforming
+         <ol>
+           <li>Front End ----> Javascript,Node JS, HTML, CSS, React <----</li>
+         <li>Back End -----> Java, Spring Boot, MySQL, Hibernate, J2EE <----</li>
+        <li>AWS ----------> EC2, S3, VPC, Elastic Beanstalk, Cloudwatch, Netwroking, Security Groups(VPC), Terraforming </li>
+         </ol>
 </li>
   <li></li>
 
