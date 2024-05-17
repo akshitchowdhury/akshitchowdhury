@@ -21,11 +21,11 @@
   <li>
  💞️ I’m looking to collaborate on projects on Web Dev</li>
   <li>
- Check out my Portfolio page via : https://devashura-portfolio.netlify.app/</li>
+ Check out my Portfolio page via : https://business-portfolio-eta.vercel.app/</li>
   <li> Skills :
          <ol>
            <li>Front End ----> Javascript,Node JS, HTML, CSS, React <----</li>
-         <li>Back End -----> Java, Spring Boot, MySQL, Hibernate, J2EE <----</li>
+         <li>Back End -----> Java, Spring Boot, NodeJs, Mongo DB, MySQL, Hibernate, J2EE <----</li>
         <li>AWS ----------> EC2, S3, VPC, Elastic Beanstalk, Cloudwatch, Netwroking, Security Groups(VPC), Terraforming </li>
          </ol>
 </li>
