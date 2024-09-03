@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align= "center">
-  <a href="https://app.daily.dev/devashura"><img src="https://api.daily.dev/devcards/v2/YBKS0snfNeBLGzBXGTk81.png?type=default&r=5rx" width="356" alt="Pratikshit Chowdhury's Dev Card"/></a>
+ 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -63,6 +63,8 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshitchowdhury&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitchowdhury&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+ <a href="https://app.daily.dev/devashura"><img src="https://api.daily.dev/devcards/v2/YBKS0snfNeBLGzBXGTk81.png?type=default&r=5rx" width="356" alt="Pratikshit Chowdhury's Dev Card"/></a>
 
 
 
